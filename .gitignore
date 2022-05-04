@@ -22,8 +22,7 @@ generated
 MANIFEST.MF
 
 #gradle
-gradle
+#gradle
 .gradle
 
-#angular
-node_modules
+
